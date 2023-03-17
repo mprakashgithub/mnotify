@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "847558624658",
+    "project_id": "mnotify-fdabf",
+    "storage_bucket": "mnotify-fdabf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847558624658:android:4d7cd46c84767ce11eed4b",
+        "android_client_info": {
+          "package_name": "com.example.mnotify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "847558624658-o4duphomcp6tdfj3303ktm2hi954a76h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mnotify",
+            "certificate_hash": "f5d81831861b5014e0a693371797c74562243b47"
+          }
+        },
+        {
+          "client_id": "847558624658-dsm7vebcng2662rf552goijr35quuaii.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuwmngHGGY6HSFKzcQlLoQPYJMB9q3ueg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "847558624658-dsm7vebcng2662rf552goijr35quuaii.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
